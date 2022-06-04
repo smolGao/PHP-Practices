@@ -1,2 +1,5 @@
-# PHP-Practices
-Some notes while learning tutorial
+# PHP Tutorials
+Some notes while learning php
+
+## Reference
+https://youtu.be/OK_JCtrrv-c
